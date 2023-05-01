@@ -1,0 +1,14 @@
+TASK 2
+	
+1. The Window Object is the top-level object in the client-side JavaScript hierarchy, while the Document Object Model (DOM) is the model for HTML and XML documents. Although both the Document and Window objects are essential for creating interactive web applications, there are some clear distinctions between their methods and properties. We'll explore more into the differences between the Document and Window objects in this blog post.
+
+The Document Object represents the HTML or XML document loaded in the browser window. It includes all of the document's elements, attributes, and content and serves as the document object model tree's root. Developers can alter the content and structure of a document by using the Document object's numerous attributes and methods. 
+
+
+*The Window object denotes the browser window or frame that contains the DOM document, whereas the Document object denotes the HTML or XML file loaded in the browser window.
+
+*All of the elements, properties, and content of the document are contained in the Document object, which serves as the root of the document object model tree. In the client-side JavaScript object structure, the Window object is at the top.
+
+*The Window object contains a large number of properties and methods that allow developers to interact with the browser window, whereas the Document object has a large number of properties and methods that allow developers to change the content and structure of the document.
+
+
